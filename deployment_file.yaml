@@ -1,1 +1,3 @@
-deployment_file.yaml
+template-file-path: cloudformation/s3_website_cloudformation.yaml
+parameters: {}
+tags: {}
