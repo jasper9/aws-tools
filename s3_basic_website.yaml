@@ -43,6 +43,8 @@ Resources:
             </head>
             <body>
                 <b>Hello world from CloudFormation, served by S3</b>
+                <br>
+                <h4>I just made a change directly from github.</h4>
             </body>
         </html>
 
